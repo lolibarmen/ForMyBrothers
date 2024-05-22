@@ -296,4 +296,59 @@ CMakeFiles/Roy.dir/src/main.cpp.o: \
  /home/lolibarmen/dc/brothers/lib/json/include/nlohmann/ordered_map.hpp \
  /usr/include/c++/14.1.1/any \
  /home/lolibarmen/dc/brothers/lib/json/include/nlohmann/detail/macro_unscope.hpp \
- /home/lolibarmen/dc/brothers/lib/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
+ /home/lolibarmen/dc/brothers/lib/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_stdinc.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_platform_defines.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_begin_code.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_close_code.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_assert.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_atomic.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_audio.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_endian.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_error.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_mutex.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_properties.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_iostream.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_thread.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_bits.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_blendmode.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_camera.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_video.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_pixels.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_rect.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_surface.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_clipboard.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_cpuinfo.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_dialog.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_events.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_gamepad.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_joystick.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_guid.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_power.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_sensor.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_keyboard.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_keycode.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_scancode.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_mouse.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_pen.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_touch.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_filesystem.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_haptic.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_hidapi.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_hints.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_init.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_loadso.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_locale.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_log.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_messagebox.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_metal.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_misc.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_platform.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_render.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_storage.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_system.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_time.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_timer.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_version.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_oldnames.h

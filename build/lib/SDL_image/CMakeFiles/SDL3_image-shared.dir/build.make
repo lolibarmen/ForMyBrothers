@@ -397,7 +397,6 @@ lib/SDL_image/libSDL3_image.so.0.0.0: lib/SDL_image/CMakeFiles/SDL3_image-shared
 lib/SDL_image/libSDL3_image.so.0.0.0: lib/SDL_image/CMakeFiles/SDL3_image-shared.dir/src/IMG_xv.c.o
 lib/SDL_image/libSDL3_image.so.0.0.0: lib/SDL_image/CMakeFiles/SDL3_image-shared.dir/build.make
 lib/SDL_image/libSDL3_image.so.0.0.0: lib/SDL/libSDL3.so.0.1.2
-lib/SDL_image/libSDL3_image.so.0.0.0: /home/lolibarmen/dc/brothers/lib/SDL_image/src/SDL_image.sym
 lib/SDL_image/libSDL3_image.so.0.0.0: /home/lolibarmen/dc/brothers/lib/SDL/src/dynapi/SDL_dynapi.sym
 lib/SDL_image/libSDL3_image.so.0.0.0: lib/SDL_image/CMakeFiles/SDL3_image-shared.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lolibarmen/dc/brothers/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking C shared library libSDL3_image.so"

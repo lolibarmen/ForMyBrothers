@@ -8,9 +8,9 @@ add_executable(Roy src/main.cpp)
 include_directories(include)
 
 add_subdirectory(lib/json)
-# add_subdirectory(lib/SDL EXCLUDE_FROM_ALL)
-# add_subdirectory(lib/SDL_image EXCLUDE_FROM_ALL)
+add_subdirectory(lib/SDL EXCLUDE_FROM_ALL)
+add_subdirectory(lib/SDL_image EXCLUDE_FROM_ALL)
 
 target_link_libraries(Roy nlohmann_json::nlohmann_json)
-# target_link_libraries(Roy SDL3::SDL3)
-# target_link_libraries(Roy SDL3_image::SDL3_image)
+target_link_libraries(Roy SDL3::SDL3)
+target_link_libraries(Roy SDL3_image::SDL3_image)
