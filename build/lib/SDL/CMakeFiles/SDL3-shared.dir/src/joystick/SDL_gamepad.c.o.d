@@ -1,0 +1,28 @@
+lib/SDL/CMakeFiles/SDL3-shared.dir/src/joystick/SDL_gamepad.c.o: \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/SDL_gamepad.c \
+ /usr/include/stdc-predef.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/SDL_internal.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../SDL_utils_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../SDL_internal.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/SDL_sysjoystick.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/SDL_joystick_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/SDL_steam_virtual_gamepad.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/SDL_gamepad_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/SDL_gamepad_db.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/controller_type.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/usb_ids.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/hidapi/SDL_hidapi_nintendo.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../events/SDL_events_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../events/../video/SDL_sysvideo.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_vulkan.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_error.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_video.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_begin_code.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/include/SDL3/SDL_close_code.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../events/SDL_clipboardevents_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../events/SDL_displayevents_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../events/SDL_dropevents_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../events/SDL_keyboard_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../events/SDL_mouse_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../events/SDL_touch_c.h \
+ /home/lolibarmen/dc/brothers/lib/SDL/src/joystick/../events/SDL_windowevents_c.h

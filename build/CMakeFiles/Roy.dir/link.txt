@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Roy.dir/src/main.cpp.o -o Roy
+/usr/bin/c++ CMakeFiles/Roy.dir/src/main.cpp.o -o Roy  -Wl,-rpath,/home/lolibarmen/dc/brothers/build/lib/SDL_image:/home/lolibarmen/dc/brothers/build/lib/SDL lib/SDL_image/libSDL3_image.so.0.0.0 lib/SDL/libSDL3.so.0.1.2

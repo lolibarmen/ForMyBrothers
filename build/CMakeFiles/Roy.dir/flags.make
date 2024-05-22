@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/lolibarmen/dc/brothers/include -I/home/lolibarmen/dc/brothers/lib/json/include
+CXX_INCLUDES = -I/home/lolibarmen/dc/brothers/include -I/home/lolibarmen/dc/brothers/lib/json/include -I/home/lolibarmen/dc/brothers/build/lib/SDL/include -I/home/lolibarmen/dc/brothers/lib/SDL/include -I/home/lolibarmen/dc/brothers/lib/SDL/include/SDL3 -I/home/lolibarmen/dc/brothers/lib/SDL_image/include
 
-CXX_FLAGS = 
+CXX_FLAGS = -fPIE
 

@@ -92,6 +92,9 @@ Roy_EXTERNAL_OBJECTS =
 
 Roy: CMakeFiles/Roy.dir/src/main.cpp.o
 Roy: CMakeFiles/Roy.dir/build.make
+Roy: lib/SDL_image/libSDL3_image.so.0.0.0
+Roy: lib/SDL/libSDL3.so.0.1.2
+Roy: /home/lolibarmen/dc/brothers/lib/SDL/src/dynapi/SDL_dynapi.sym
 Roy: CMakeFiles/Roy.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lolibarmen/dc/brothers/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Roy"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Roy.dir/link.txt --verbose=$(VERBOSE)
